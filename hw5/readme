@@ -1,1 +1,4 @@
-
+DLCV HW5 NN for action recognition (implemented in pytorch 0.3.0):
+1. CNN + FC
+2. CNN + RNN
+3. CNN + seq2seq
